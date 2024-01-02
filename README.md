@@ -6,3 +6,5 @@ Newbie Javascript Project - Stock Search
 ![ALT](screen2.png)
 
 ![ALT](screen3.png)
+
+![ALT](screen4.png)
